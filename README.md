@@ -39,7 +39,7 @@ flask run
 
 ## Usage  
 
-* You can use the following urls to view, create, edit or delete apps
+* You can use the following urls to view, create, edit or delete blogs
     * http://127.0.0.1:5000
     * http://127.0.0.1:5000/<id>
     * http://127.0.0.1:5000/<id>/edit
