@@ -18,7 +18,7 @@ source env/bin/activate
 
 ### Install requirements
 ```shell
-pip install -r r.txt
+pip install -r requirements.txt
 ```
 
 ### Flask Environment variables
